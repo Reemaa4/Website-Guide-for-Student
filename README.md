@@ -8,3 +8,4 @@ The website Designed by Agile Method specially Scrum, since it’s perfect for
 small to medium sized systems and teams. Agile has always resulted in on-time delivery and has
 flexibility to make changes and edit during the development process.
 
+![Screenshot 2024-07-14 132757](https://github.com/user-attachments/assets/236fcb02-715a-4e05-aa7b-ef805bcaaa21)
